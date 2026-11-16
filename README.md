@@ -3,7 +3,7 @@
 Selaimessa toimiva klassinen matopeli (Snake) suomeksi. Yksi tiedosto, ei
 build-vaihetta eikä riippuvuuksia – avaa vain `index.html`.
 
-**Pelaa täältä:** https://saarajara-stack.github.io/matopeli1-demo/
+**Pelaa täältä:** https://saarajara-stack.github.io/matopeli1-demo-2026-11-16/
 
 ## Mitä peli sisältää
 
